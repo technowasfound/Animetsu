@@ -1,0 +1,18 @@
+{
+  "name": "Animetsu",
+  "category": "Anime",
+  "description": {
+    "en": "Show your friends what anime you are watching on Animetsu.net."
+  },
+  "author": {
+    "name": "Techno",
+    "id": "1242121491898961942"
+  },
+  "version": "1.0.0",
+  "url": "animetsu.net",
+  "regExp": "^(?:https?:\\/\\/)?(?:www\\.)?animetsu\\.net\\/(.*)",
+  "logo": "https://cdn.discordapp.com/attachments/1479524302976975019/1519375832735416410/favicon.png?ex=6a3d5483&is=6a3c0303&hm=aeb149b015d6f8af64da30b919078e6a430670331f876dfca54f7ffbad9fa9e4",
+  "thumbnail": "https://cdn.discordapp.com/attachments/1479524302976975019/1519375742125736198/Screenshot_20260624_181630.png?ex=6a3d546d&is=6a3c02ed&hm=72d144fd334084f4552b4bfe4b432d702d82967e88637865889a927fc1b0451d",
+  "color": "#",
+  "tags": ["anime", "streaming"]
+}
